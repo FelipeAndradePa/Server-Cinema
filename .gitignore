@@ -1,0 +1,19 @@
+#ignore todos os arquivos de texto
+
+*.txt
+
+#ignore arquivos relacionados a chaves de API
+
+.env
+
+#ignore caminhos relativos
+
+/movies-service/data
+/movies-service/src/coverage
+/movies-service/src/node_modules
+/cinema-catalog-service/data
+/cinema-catalog-service/coverage
+/cinema-catalog-service/node_modules
+/cinema-catalog-service/src/data
+/cinema-catalog-service/src/coverage
+/cinema-catalog-service/src/node_modules
